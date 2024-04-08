@@ -20,7 +20,9 @@ Also note that I did not design these icons, I compiled many .svg files from man
 
 ## Credits
 
- - [https://github.com/aldomann/moka-extra-iconss](https://github.com/aldomann/moka-extra-iconss)
+ - [https://github.com/aldomann/moka-extra-icons](https://github.com/aldomann/moka-extra-icons)
  - [https://github.com/Hokiper/mint-y-icons](https://github.com/Hokiper/mint-y-icons)
  - [https://github.com/PHPeon/mint-y-icons](https://github.com/PHPeon/mint-y-icons)
+ - [https://github.com/PHPeon/mint-y-icons](https://github.com/PHPeon/mint-y-icons)
+ - [https://github.com/Cloweling/mint-y-icons](https://github.com/Cloweling/mint-y-icons)
 
