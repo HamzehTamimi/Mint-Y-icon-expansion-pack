@@ -11,7 +11,7 @@ Also note that I did not design these icons, I compiled many .svg files from man
 
 - Download the latest file from releases
 
-- Extract the file you have dowloaded and copy it to /home/<username>/icons
+- Extract the file you have dowloaded and copy it to ~/.icons
 
 - Apply Mint-Y theme & enjoy
 
